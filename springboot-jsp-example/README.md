@@ -1,5 +1,5 @@
-# springboot-examples
-springboot-jsp-examples
+# springboot-example
+springboot-jsp-example
 
 ```
 $ mvn clean spring-boot:run
